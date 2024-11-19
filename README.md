@@ -1,4 +1,4 @@
-This repository showcases a comprehensive project focusing on designing, implementing, securing, and automating a small network. The project is divided into five phases, each covering specific tasks and deliverables:
+This repository showcases a comprehensive project focusing on designing, implementing, securing, and automating a small network. The project is divided into 4 phases, each covering specific tasks and deliverables:
 
 1.Network Design and Configuration
 .Designed a small network topology using Cisco devices, including IP addressing and initial configurations.
